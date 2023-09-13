@@ -71,11 +71,8 @@ For a closer look at submitting a solution locally:
 
 Submitting locally;
 From here, there are a number of paths you can take.
-
 Regardless of what you decide to do next, we sincerely hope you learn and enjoy being part of this community. If at any time you need assistance do not hesitate to ask for help.
-
 Cheers!
-
 There are many more exercises you can practice with. Grab the next one! (example for two-fer)
 
 $ exercism download --exercise=two-fer --track=java
