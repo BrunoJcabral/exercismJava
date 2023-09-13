@@ -3,9 +3,13 @@ package com.example.exercismjava.exercise;
 public class exerc01 {
 
     public static void main(String[] args) {
-
+        System.out.println(getGreeting());
     }
 
+
+    static String getGreeting() {
+            return "Hello, World!";
+    }
 
 
     /*nstructions
